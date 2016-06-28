@@ -33,7 +33,7 @@ El clásico de Big Bang Theory *Piedra papel tijeras largarto Spock* en Arduino.
 
 ## Extra: 
 - Modo Debug. Imprime información por consola. Solo es necesario quitar el comentario en la línea 18
-
+- Versión en ingles del juego. Gracias [@NuriaHill](https://github.com/NuriaHill)
 ~~~
 #define DEBUGMODE
 ~~~
