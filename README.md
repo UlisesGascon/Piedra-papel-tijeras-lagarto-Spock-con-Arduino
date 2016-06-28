@@ -32,11 +32,12 @@ El clásico de Big Bang Theory *Piedra papel tijeras largarto Spock* en Arduino.
 [Fritzing file](https://github.com/UlisesGascon/Piedra-papel-tijeras-lagarto-Spock-con-Arduino/blob/master/pptls.fzz)
 
 ## Extra: 
-- Modo Debug. Imprime información por consola. Solo es necesario quitar el comentario en la línea 18
 - Versión en ingles del juego. Gracias [@NuriaHill](https://github.com/NuriaHill)
+- Modo Debug. Imprime información por consola. Solo es necesario quitar el comentario en la línea 18
 ~~~
 #define DEBUGMODE
 ~~~
+
 
 ## El código:
 
